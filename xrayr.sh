@@ -1,7 +1,6 @@
-
 #!/bin/bash
 # bản chạy 443 và 80 xrayr thường
-bash <(curl -ls https://raw.githubusercontent.com/AZZ-vopp/Z_OV/main/xrayrthuong.sh)
+bash <(curl -ls https://raw.githubusercontent.com/Tung111222/xrayr/main/xrayr.sh)
 
 
     read -p "Nhập Link Web :" domain
