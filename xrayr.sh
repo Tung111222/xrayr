@@ -82,7 +82,7 @@ Nodes:
         Email: test@me.com
         DNSEnv: # DNS ENV option used by DNS provider
           CLOUDFLARE_EMAIL: hahuutung07.vn@gmail.com
-          CLOUDFLARE_API_KEY: 2d385559cc1c094576aecea01eadcd6680d27
+          CLOUDFLARE_API_KEY: aabb
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
@@ -123,7 +123,7 @@ Nodes:
         Email: test@me.com
         DNSEnv: # DNS ENV option used by DNS provider
           CLOUDFLARE_EMAIL: hahuutung07.vn@gmail.com
-          CLOUDFLARE_API_KEY: 2d385559cc1c094576aecea01eadcd6680d27
+          CLOUDFLARE_API_KEY: aabb
 EOF
 cd /root
 xrayr restart
